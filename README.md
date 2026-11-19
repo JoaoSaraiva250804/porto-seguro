@@ -198,3 +198,4 @@ O sistema aplica as regras ocupacionais de monitoramento contínuo:
 
 **Desenvolvido com foco em UI/UX moderna, performance e usabilidade mobile.**
 
+https://joaosaraiva250804.github.io/porto-seguro/
